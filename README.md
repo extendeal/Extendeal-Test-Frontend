@@ -10,15 +10,17 @@ Se adjunta un proyecto de nodejs, con una pequeña base de datos y una api ya de
 
 ## Installation
 
+- `git clone https://github.com/extendeal/extendeal-test-frontend.git`
+- `cd extendeal-test-frontend`
+- `npm install -g yarn`
 - `yarn install`
 
 Los requisitos son únicamente tener instalado una versión de node >= 4 y npm. Si todo funcionó correctamente, va a correr el servidor, y vas a poder acceder a través de cualquier navegador en la dirección: localhost:8080. Se debería visualizar el html ubicado en public/index.html.
 
 ---
 
-## Server
+## Iniciar API
 
-- `api/products`
 - `node server.js`
 
 ---
@@ -53,10 +55,3 @@ Se pide específicamente el uso de React. Dará un valor adicional, aunque no es
 4. Tiempo en realizar la tarea.
 
 ---
-
-
-
-
-
-
-
